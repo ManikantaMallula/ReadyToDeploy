@@ -27,3 +27,8 @@ Feel free to contribute! Follow the standard GitHub workflow: Fork, Branch, Comm
 📄 **License:**
 This project is licensed under the [MIT License](LICENSE).
 
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/ManikantaMallula/ReadyToDeploy.git
+   cd health-project
